@@ -1,0 +1,1 @@
+GraphingCalculator 3.5;Window 91 476 995 1293;PaneDivider 282;DrawGraph 0;FontSizes 12 9 6;BackgroundType 0;Expr function(F_1,T)=?;Color 2;Expr function(F_2,T)=?;Color 3;Expr function(F_3,T)=0;Color 7;Expr vector(x,y)=vector(function(F_1,t),function(F_2,t));

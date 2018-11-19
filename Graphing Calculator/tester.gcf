@@ -1,0 +1,1 @@
+GraphingCalculator 3.5;Window 78 16 1003 1034;PaneDivider 289;DrawGraph 0;FontSizes 12 9 6;BackgroundType 0;2D.BottomLeft -4.65625 -3.984375;MathPaneSlider 29;Expr R_1=slider([0,10]);Color 4;Expr M=1;Text "Graphs";Color 5;Expr -M/R_1^2;Color 3;Expr -M/x^2;Color 6;Expr ?;
